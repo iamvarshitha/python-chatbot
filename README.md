@@ -5,12 +5,14 @@ A simple Python chatbot powered by OpenAI's GPT-3.5 model.
 
 
 Requirements:
+
 Python 3.x
 
 OpenAI Python library
 
 
 Setup:
+
 Get your OpenAI API key from OpenAI API keys.
 
 Replace openai.api_key in main.py with your API key.
