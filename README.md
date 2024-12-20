@@ -1,4 +1,4 @@
-# python-chatbot
+# Python-chatbot
 
 Chatbot with GPT-3.5 Turbo
 A simple Python chatbot powered by OpenAI's GPT-3.5 model.
